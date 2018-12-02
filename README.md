@@ -1,7 +1,7 @@
 ![Karumi logo][karumilogo] Marvel API Client
 =================
 
-Marve API Client written in Swift.
+Marvel API Client written in Swift.
 
 Project under development.
 
